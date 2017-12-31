@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332568287632",
+    "firebase_url": "https://edulocate.firebaseio.com",
+    "project_id": "edulocate",
+    "storage_bucket": "edulocate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332568287632:android:ae60f4b12efbb006",
+        "android_client_info": {
+          "package_name": "bskerritt.student.ncirl.ie.edulocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332568287632-vn5a5nu5o5cc4e1sk0bpoeqam4f4rui2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bskerritt.student.ncirl.ie.edulocate",
+            "certificate_hash": "5b0a7c5256df2bd881a2f23bbeaee778a78ad9b9"
+          }
+        },
+        {
+          "client_id": "332568287632-jhhtomkf603s57q9gh8lr9rsb0156bfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPS-M3TLEViSAYBjUr4ebEgGcp3uyFH5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332568287632-jhhtomkf603s57q9gh8lr9rsb0156bfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
